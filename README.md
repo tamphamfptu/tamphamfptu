@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @tamphamfptu
-- 👀 I’m interested in SpringBoot, Python
-- 🌱 I’m currently learning Front-End, Java, Python, ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.facebook.com/tampham3112
 
-<!---
-tamphamfptu/tamphamfptu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Tam Pham
+Alt Text
+
+⛅•💻 About Me
+🍙   Exploring new technologies and developing software solutions
+
+🎓   Studying Software Engineering at FPT University HCMC
+
+
+✍️   Pursuing Web Development as hobbies/side hustles.
+
+🛠 Tech Stack
+💻   Python 🐍| Java ☕| JavaScript 
+
+🌐   ReactJS | NextJS
+
+🌱 Spring Ecosystem
+
+😹 Node Framework: NestJS, Express
+
+
+
+⚙ Deployment: Docker🐳
+
+✏️ Design tool: Adobe PTS | Lightroom
+
+🤺 Figmar 
+
+Contribute ☘
+⭐   FPT Software | Oympus JIGWeb | Frontend Developer
+
+To learn ☘
+
+Expert development life cycle
