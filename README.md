@@ -1,6 +1,5 @@
 
 I'm Tam Pham
-Alt Text
 
 ⛅•💻 About Me
 🍙   Exploring new technologies and developing software solutions
