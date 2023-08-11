@@ -7,10 +7,10 @@ I'm Tam Pham
 🎓   Studying Software Engineering at FPT University HCMC
 
 
-✍️   Pursuing Web Development as hobbies/side hustles.
+✍️   Pursuing Web Development as hobbies/side-hustles.
 
 🛠 Tech Stack
-💻   Python 🐍| Java ☕| JavaScript 
+💻   Python 🐍| Java ☕| JavaScript | Typescript
 
 🌐   ReactJS | NextJS
 
@@ -22,12 +22,12 @@ I'm Tam Pham
 
 ⚙ Deployment: Docker🐳
 
-✏️ Design tool: Adobe PTS | Lightroom
+✏️ Design tool: Adobe PTS | Lightroom | Adobe Premiere
 
 🤺 Figmar 
 
 Contribute ☘
-⭐   FPT Software | Oympus JIGWeb | Frontend Developer
+⭐   FPT Software | Oympus JIGWeb | Frontend Developer 
 
 To learn ☘
 
