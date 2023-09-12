@@ -29,6 +29,3 @@ I'm Tam Pham
 Contribute ☘
 ⭐   FPT Software | Oympus JIGWeb | Frontend Developer 
 
-To learn ☘
-
-Expert development life cycle
